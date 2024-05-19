@@ -5,4 +5,4 @@ For feedback on guesses, there is a function simply called get_result that takes
 
 The WordleBot can take this output, and begin to deduce the possible words that the taget word could be. Again, this is not as straightforward as it seems, because a '0' in the output does not necessarily mean that letter is not in the target word (specific scenario).
 
-The program will keep track of all scores received by the bot and the user throughout that runtime, and you can view and compare the statistics from an option in the Main Menu.
+The program will keep track of all scores received by the bot and the user throughout that runtime, and you can view and compare the statistics with an ASCII bar graph from an option in the Main Menu.
